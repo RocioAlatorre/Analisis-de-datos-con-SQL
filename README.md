@@ -11,6 +11,8 @@ La información recopilada fue de los meses de enero, febrero y marzo, el mes co
 El menú cuenta con 32 productos, dividido en 4 categorías: Italian, Asian, Mexican y American. La categoría con más ventas fue Italian y la menor American. 
 El producto más vendido fue Hamburger con un precio de 12.95 USD y el menos Chicken Tacos con 11.95 USD. El producto con el precio más caro es Shrimp Scampi y el más barato es Edamame, el precio promedio de los productos es de 13.29 USD.
 
+Con base en la información mencionada, se puede deducir que los clientes no deciden la compra de los productos por el precio sino por algún otro atributo como el sabor, presentación, etc., que sería importante identificar para poder incrementar las ventas en todos los productos. 
+
 
 
 
