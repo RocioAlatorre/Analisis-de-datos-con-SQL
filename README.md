@@ -7,7 +7,7 @@ El objetivo del análisis fue identificar cuáles son los productos del menú nu
 La base de datos de las transacciones que se realizaron se gestionó en PostgreSQL y mediante diversas consultas en SQL se obtuvo información importante sobre las ventas del restaurante. 
 
 Conclusiones sobre el análisis:
-La información recopilada fue de los meses de enero, febrero y marzo, el mes con mayores ventas fue marzo y el mes con menos febrero, se tuvieron 5370 pedidos unicos. 
+La información recopilada fue de los meses de enero, febrero y marzo, el mes con mayores ventas fue marzo y el mes con menos febrero, se tuvieron 5370 pedidos únicos. 
 El menú cuenta con 32 productos, dividido en 4 categorías: Italian, Asian, Mexican y American. La categoría con más ventas fue Italian y la menor American. 
 El producto más vendido fue Hamburger con un precio de 12.95 USD y el menos Chicken Tacos con 11.95 USD. El producto con el precio más caro es Shrimp Scampi y el más barato es Edamame, el precio promedio de los productos es de 13.29 USD.
 
